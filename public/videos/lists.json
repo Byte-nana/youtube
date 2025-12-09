@@ -1,0 +1,1148 @@
+{
+  "kind": "youtube#playlistListResponse",
+  "etag": "FB2iquHV1TzPZF1gVxdjH2EM0H0",
+  "nextPageToken": "CBkQAA",
+  "pageInfo": {
+    "totalResults": 188,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#playlist",
+      "etag": "LUkVmWXlpcMjr5Sv-dfmB4eE2nk",
+      "id": "PLOU2XLYxmsIJK8PCMHyOTb0wYTz-gIlEH",
+      "snippet": {
+        "publishedAt": "2025-12-01T23:00:32.51842Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Live from Mountain View: Nano Banana Pro",
+        "description": "Watch the full replay, highlights, and every app built and image generated during our Nano Banana Pro livestream. Join Logan Kilpatrick, Kat Kampf, Ammaar Reshi, Tulsee Doshi, Bea Alessio, Naina Raisinghani and Nicole Brichtova push the boundaries of SOTA text rendering, character consistency, and visual storytelling via Gemini 3 Pro Image in AI Studio.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yF5wqZR9qCU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yF5wqZR9qCU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yF5wqZR9qCU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yF5wqZR9qCU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yF5wqZR9qCU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Live from Mountain View: Nano Banana Pro",
+          "description": "Watch the full replay, highlights, and every app built and image generated during our Nano Banana Pro livestream. Join Logan Kilpatrick, Kat Kampf, Ammaar Reshi, Tulsee Doshi, Bea Alessio, Naina Raisinghani and Nicole Brichtova push the boundaries of SOTA text rendering, character consistency, and visual storytelling via Gemini 3 Pro Image in AI Studio."
+        }
+      },
+      "contentDetails": {
+        "itemCount": 14
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "riLHroHteh-ByLrfHQsTc3bJwSo",
+      "id": "PLOU2XLYxmsIJfp2qcvKdg3W_ABKDonKWV",
+      "snippet": {
+        "publishedAt": "2025-12-01T22:30:45.504024Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Live from Mountain View: Vibe coding with Gemini 3",
+        "description": "Watch the full replay, highlights, and every app built during our Gemini 3 livestream. Join Logan Kilpatrick, Kat Kampf, Ammaar Reshi, Koray Kavukcuoglu, Tulsee Doshi, Josh Woodward, Varun Mohan, and Clement Farabet as they vibe code everything from flight simulators to choreography tools using Gemini 3 in AI Studio.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zmtrkVTOGtE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zmtrkVTOGtE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zmtrkVTOGtE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zmtrkVTOGtE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zmtrkVTOGtE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Live from Mountain View: Vibe coding with Gemini 3",
+          "description": "Watch the full replay, highlights, and every app built during our Gemini 3 livestream. Join Logan Kilpatrick, Kat Kampf, Ammaar Reshi, Koray Kavukcuoglu, Tulsee Doshi, Josh Woodward, Varun Mohan, and Clement Farabet as they vibe code everything from flight simulators to choreography tools using Gemini 3 in AI Studio."
+        }
+      },
+      "contentDetails": {
+        "itemCount": 16
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "UNBS_HEZDTSuAM-5L5rJC75c-is",
+      "id": "PLOU2XLYxmsIJCVXV1bLV7qnT5hilN3YJ7",
+      "snippet": {
+        "publishedAt": "2025-11-18T15:50:55.654553Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Gemini 3 for Developers",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ku-N-eS1lgM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ku-N-eS1lgM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ku-N-eS1lgM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "localized": {
+          "title": "Gemini 3 for Developers",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 6
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "BwEZe4ViMP2wqVwpMJgEj0lfaHI",
+      "id": "PLOU2XLYxmsIKkEa_-KTPF9DZ0IyHJ7V1H",
+      "snippet": {
+        "publishedAt": "2025-10-24T18:06:47.20417Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Vibe Coding in AI Studio",
+        "description": "Build with AI Studio's new vibe coding features. From editing with your voice to integrating Google-grade products like Maps, we have everything you need to get started integrating AI into your apps.\n\nStart building AI apps → https://goo.gle/4oARdmR",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DePOMEBfvWQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DePOMEBfvWQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DePOMEBfvWQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DePOMEBfvWQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DePOMEBfvWQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "localized": {
+          "title": "Vibe Coding in AI Studio",
+          "description": "Build with AI Studio's new vibe coding features. From editing with your voice to integrating Google-grade products like Maps, we have everything you need to get started integrating AI into your apps.\n\nStart building AI apps → https://goo.gle/4oARdmR"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 10
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "kCzjNOCyiaEIpoQri24YLBuhUZw",
+      "id": "PLOU2XLYxmsIIxX2m-P7Hs0_3sbmsaa0BL",
+      "snippet": {
+        "publishedAt": "2025-10-14T22:38:40.63615Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Code health and testing",
+        "description": "Ideas to make your code more maintainable, from clean code to testing principles.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yjvE8jLVvDQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yjvE8jLVvDQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yjvE8jLVvDQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yjvE8jLVvDQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yjvE8jLVvDQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "localized": {
+          "title": "Code health and testing",
+          "description": "Ideas to make your code more maintainable, from clean code to testing principles."
+        }
+      },
+      "contentDetails": {
+        "itemCount": 8
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "vz8EgtJPu8IIWeSwo1ENcePR5To",
+      "id": "PLOU2XLYxmsIIj24phEYGRbA-XZfLkvYC6",
+      "snippet": {
+        "publishedAt": "2025-08-21T00:00:14.075524Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Tips for the Modern Developer",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HFGyEGU-yyk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HFGyEGU-yyk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HFGyEGU-yyk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HFGyEGU-yyk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HFGyEGU-yyk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "localized": {
+          "title": "Tips for the Modern Developer",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 27
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "TtbGpkkrBMmLrS78u6_eIMnP2lA",
+      "id": "PLOU2XLYxmsILRtuA9dCdBy-2PfeUR4pFd",
+      "snippet": {
+        "publishedAt": "2025-07-21T18:36:09.007518Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "People of AI Podcast",
+        "description": "Welcome to the people of AI podcast, showcasing inspiring people solving problems, using Artificial Intelligence.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/A-DK5wUKoIU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/A-DK5wUKoIU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/A-DK5wUKoIU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/A-DK5wUKoIU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/A-DK5wUKoIU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "localized": {
+          "title": "People of AI Podcast",
+          "description": "Welcome to the people of AI podcast, showcasing inspiring people solving problems, using Artificial Intelligence."
+        }
+      },
+      "contentDetails": {
+        "itemCount": 38
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "et5V-vFF8nE8DBo9KhhvL64C_1c",
+      "id": "PLOU2XLYxmsIIAPgM8FmtEcFTXLLzmh4DK",
+      "snippet": {
+        "publishedAt": "2025-06-25T18:02:02.724753Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Getting started with Agent Developer Kit (ADK)",
+        "description": "Building complex, production-ready AI agents, especially multi-modal or multi-agent systems, can be challenging. Introducing the Agent Developer Kit (ADK), a new open-source project from Google designed to simplify this process based on Google's internal experience. ADK provides a powerful, open foundation (model-agnostic, deployment-agnostic, interoperable) that makes agent development feel like software development, complete with native multi-modal streaming and easy local debugging via a built-in UI. Watch this playlist to learn how Agent Developer Kit (ADK) can help you in your developer projects.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zgrOwow_uTQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zgrOwow_uTQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zgrOwow_uTQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zgrOwow_uTQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zgrOwow_uTQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "localized": {
+          "title": "Getting started with Agent Developer Kit (ADK)",
+          "description": "Building complex, production-ready AI agents, especially multi-modal or multi-agent systems, can be challenging. Introducing the Agent Developer Kit (ADK), a new open-source project from Google designed to simplify this process based on Google's internal experience. ADK provides a powerful, open foundation (model-agnostic, deployment-agnostic, interoperable) that makes agent development feel like software development, complete with native multi-modal streaming and easy local debugging via a built-in UI. Watch this playlist to learn how Agent Developer Kit (ADK) can help you in your developer projects."
+        }
+      },
+      "contentDetails": {
+        "itemCount": 12
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "bhYU_vHXP5PV2r2Vwnc4KitBnj8",
+      "id": "PLOU2XLYxmsIKMiULlUS0vuAna7d7Uz2JW",
+      "snippet": {
+        "publishedAt": "2025-06-14T01:00:38.47726Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Ask a Google Engineer",
+        "description": "Here are some questions we've asked Google Engineers.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eGsKwMSA6Ic/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eGsKwMSA6Ic/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eGsKwMSA6Ic/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eGsKwMSA6Ic/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eGsKwMSA6Ic/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "localized": {
+          "title": "Ask a Google Engineer",
+          "description": "Here are some questions we've asked Google Engineers."
+        }
+      },
+      "contentDetails": {
+        "itemCount": 3
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "P1UULadS7SvKLgolLqtiblE1sDU",
+      "id": "PLOU2XLYxmsIIJoHc47Lg92gfgzZPyfW7Y",
+      "snippet": {
+        "publishedAt": "2025-05-19T17:58:41.74978Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "AI Deep Dives with Logan on the Release Notes Podcast",
+        "description": "The latest in Google's AI tech from the people who work on it every day. Listen in with host Logan Kilpatrick (@OfficialLoganK) as he deep dives with the minds behind the cutting edge of Google AI tech, from the stories of launching new models to the future of products and everything in between. Listen to this podcast: Apple Podcasts → https://goo.gle/3Bm7QzQ Spotify → https://goo.gle/3ZL3ADl",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xCRvOUykOX0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xCRvOUykOX0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xCRvOUykOX0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xCRvOUykOX0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xCRvOUykOX0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "localized": {
+          "title": "AI Deep Dives with Logan on the Release Notes Podcast",
+          "description": "The latest in Google's AI tech from the people who work on it every day. Listen in with host Logan Kilpatrick (@OfficialLoganK) as he deep dives with the minds behind the cutting edge of Google AI tech, from the stories of launching new models to the future of products and everything in between. Listen to this podcast: Apple Podcasts → https://goo.gle/3Bm7QzQ Spotify → https://goo.gle/3ZL3ADl"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 20
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "5kmAP6M1Euv4r6r8vh8K2itDogA",
+      "id": "PLOU2XLYxmsIKLku3zKhoF_pVHsxkTun4S",
+      "snippet": {
+        "publishedAt": "2025-05-09T22:04:34.928372Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Google I/O 2025 Recaps",
+        "description": "Catch the highlights from Google I/O 2025! Get the latest innovations, announcements, and exciting moments from the event. Stay up to date with the most important trends and breakthroughs.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EMZuKqr69Y8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EMZuKqr69Y8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EMZuKqr69Y8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EMZuKqr69Y8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EMZuKqr69Y8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "localized": {
+          "title": "Google I/O 2025 Recaps",
+          "description": "Catch the highlights from Google I/O 2025! Get the latest innovations, announcements, and exciting moments from the event. Stay up to date with the most important trends and breakthroughs."
+        }
+      },
+      "contentDetails": {
+        "itemCount": 8
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "wjw_iyNhMZn1MdW0X7k9mEsezLE",
+      "id": "PLOU2XLYxmsIKKveZ15WFAtCs9H6gcts2_",
+      "snippet": {
+        "publishedAt": "2025-04-24T20:09:05.98254Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Dialogues at Google I/O 2025",
+        "description": "Dive into the dialogue sessions from Google I/O 2025. Gain insights directly from experts across various tech domains.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Uh-7YX8tkxI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Uh-7YX8tkxI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Uh-7YX8tkxI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Uh-7YX8tkxI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Uh-7YX8tkxI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "localized": {
+          "title": "Dialogues at Google I/O 2025",
+          "description": "Dive into the dialogue sessions from Google I/O 2025. Gain insights directly from experts across various tech domains."
+        }
+      },
+      "contentDetails": {
+        "itemCount": 8
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "DATjevmSKVA8HPi7mvdG8rWJRGc",
+      "id": "PLOU2XLYxmsIJEQRQDtuYKVUmxYvRfWN5m",
+      "snippet": {
+        "publishedAt": "2025-04-24T19:39:38.97463Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Google I/O 2025 Livestreams",
+        "description": "Don't miss out – click Notify me on these livestreams to be alerted when the streams start! Join us on May 20-21 for live sessions from Google I/O 2025. Hear about product announcements and advancements from Google experts and amazing guest speakers.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/o8NiE3XMPrM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/o8NiE3XMPrM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/o8NiE3XMPrM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/o8NiE3XMPrM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/o8NiE3XMPrM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "localized": {
+          "title": "Google I/O 2025 Livestreams",
+          "description": "Don't miss out – click Notify me on these livestreams to be alerted when the streams start! Join us on May 20-21 for live sessions from Google I/O 2025. Hear about product announcements and advancements from Google experts and amazing guest speakers."
+        }
+      },
+      "contentDetails": {
+        "itemCount": 10
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "6dexLq1F_HrIP7asoizMDVoRSlY",
+      "id": "PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "snippet": {
+        "publishedAt": "2025-04-24T19:05:26.646118Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Google I/O 2025 - All Sessions",
+        "description": "Explore all the sessions from Google I/O 2025! 🚀 From AI breakthroughs and web innovations to mobile development and cloud advancements, dive into expert-led talks, technical deep dives, and hands-on demos. Whether you're a seasoned developer or just getting started, find the insights and tools to build the future.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GjvgtwSOCao/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GjvgtwSOCao/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GjvgtwSOCao/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GjvgtwSOCao/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GjvgtwSOCao/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "localized": {
+          "title": "Google I/O 2025 - All Sessions",
+          "description": "Explore all the sessions from Google I/O 2025! 🚀 From AI breakthroughs and web innovations to mobile development and cloud advancements, dive into expert-led talks, technical deep dives, and hands-on demos. Whether you're a seasoned developer or just getting started, find the insights and tools to build the future."
+        }
+      },
+      "contentDetails": {
+        "itemCount": 82
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "R_U8IgVIOI7mT1Z0rGXruZ4tzb8",
+      "id": "PLOU2XLYxmsIIuDZXFpPEM85OReP_NV3tI",
+      "snippet": {
+        "publishedAt": "2025-04-02T20:09:39.267058Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Gemma 3: From zero to hero",
+        "description": "Google product experts demonstrate how you can build projects using Gemma 3, the latest state-of-the-art open models built from the same research and technology used to create the Gemini models.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eJFJRyXEHZ0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eJFJRyXEHZ0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eJFJRyXEHZ0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eJFJRyXEHZ0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eJFJRyXEHZ0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "localized": {
+          "title": "Gemma 3: From zero to hero",
+          "description": "Google product experts demonstrate how you can build projects using Gemma 3, the latest state-of-the-art open models built from the same research and technology used to create the Gemini models."
+        }
+      },
+      "contentDetails": {
+        "itemCount": 14
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "VP-i6Xz2kXsN2LLTVs6od8U92hM",
+      "id": "PLOU2XLYxmsILOkAPDwRqvbiReWbIcLC4k",
+      "snippet": {
+        "publishedAt": "2025-04-01T18:05:46.810282Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Gemma Developer Day Paris",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LdwSzzSnspM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LdwSzzSnspM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LdwSzzSnspM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LdwSzzSnspM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LdwSzzSnspM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "localized": {
+          "title": "Gemma Developer Day Paris",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 19
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "0Wn_TLw1ltN5G4pvxImyKAWAalM",
+      "id": "PLOU2XLYxmsIIGds4tPR-9Q56xVTxPpYW2",
+      "snippet": {
+        "publishedAt": "2025-02-28T18:45:09.498767Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "AI at Google I/O 2025",
+        "description": "Explore the AI stack sessions from Google I/O 2025 Google I/O 2025! Learn about the latest advancements in machine learning and artificial intelligence and discover how to integrate AI/ML into your projects.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Uh-7YX8tkxI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Uh-7YX8tkxI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Uh-7YX8tkxI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Uh-7YX8tkxI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Uh-7YX8tkxI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "localized": {
+          "title": "AI at Google I/O 2025",
+          "description": "Explore the AI stack sessions from Google I/O 2025 Google I/O 2025! Learn about the latest advancements in machine learning and artificial intelligence and discover how to integrate AI/ML into your projects."
+        }
+      },
+      "contentDetails": {
+        "itemCount": 22
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "T0dbgocC_7zoHxcGcr5GK1rz0y4",
+      "id": "PLOU2XLYxmsIL7-SZlT0UHBWEG3DBwbaoA",
+      "snippet": {
+        "publishedAt": "2025-01-27T20:34:42.454861Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Google Summer of Code: Information",
+        "description": "Google Summer of Code (GSoC) is a global, online program focused on bringing new contributors into open source software development. GSoC Contributors work with an open source organization on a 12+ week programming project under the guidance of mentors.  View the videos and learn some tips and tricks for getting started with GSoC!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/85vwk-Sqa5E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/85vwk-Sqa5E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/85vwk-Sqa5E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/85vwk-Sqa5E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "localized": {
+          "title": "Google Summer of Code: Information",
+          "description": "Google Summer of Code (GSoC) is a global, online program focused on bringing new contributors into open source software development. GSoC Contributors work with an open source organization on a 12+ week programming project under the guidance of mentors.  View the videos and learn some tips and tricks for getting started with GSoC!"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 10
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "iZ5SVcEwclDbREaGY-k4EkZ1K_s",
+      "id": "PLOU2XLYxmsIJ5kxKS2DO7y-X8EecbFT7g",
+      "snippet": {
+        "publishedAt": "2025-01-27T20:03:16.119138Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Google Summer of Code: Organizations",
+        "description": "Google Summer of Code (GSoC) is a global, online program focused on bringing new contributors into open source software development. GSoC Contributors work with an open source organization on a 12+ week programming project under the guidance of mentors.  View the videos and get to know our mentoring organizations!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/p6xdQInKZh8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/p6xdQInKZh8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/p6xdQInKZh8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/p6xdQInKZh8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/p6xdQInKZh8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "localized": {
+          "title": "Google Summer of Code: Organizations",
+          "description": "Google Summer of Code (GSoC) is a global, online program focused on bringing new contributors into open source software development. GSoC Contributors work with an open source organization on a 12+ week programming project under the guidance of mentors.  View the videos and get to know our mentoring organizations!"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 26
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "gSEBAJOwVVhv-VevpeFCu9qUqy4",
+      "id": "PLOU2XLYxmsIKWMJkzjQJnZuORjXVXB2Ky",
+      "snippet": {
+        "publishedAt": "2024-12-20T20:02:37.560882Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Google Wallet Developer Livestreams",
+        "description": "Welcome to the official Google Wallet developer livestream playlist! Join us as we dive deep into the world of Google Wallet development. In these livestreams, we'll have engaging conversations with experts, unveil the latest features of the Google Wallet API, and showcase innovative ways to integrate them into your apps. Stay ahead of the curve and gain valuable insights to enhance your app development with Google Wallet.\n\nWhat you can expect:\n\n- In-depth discussions: We'll explore the intricacies of the Google Wallet API and discuss best practices for implementation.\n\n- Exclusive interviews: Hear from special guests, including industry leaders and Googlers, who will share their insights and expertise.\n\n- New feature reveals: Be the first to know about the latest additions to the Google Wallet API and learn how to leverage them to create compelling user experiences.\n\n- Creative use cases: Discover innovative ways to use Google Wallet features to engage your users and enhance their digital interactions.\n\nSave this playlist to stay up-to-date on the latest Google Wallet developments and unlock the full potential of your apps. Don't miss out on these valuable resources and the opportunity to connect with the Google Wallet developer community! Join us on this exciting journey and be a part of the future of digital payments with Google Wallet!\n\n#GoogleWallet #Developers #GoogleforDevelopers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9_GiWxsIwrE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9_GiWxsIwrE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9_GiWxsIwrE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9_GiWxsIwrE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9_GiWxsIwrE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "localized": {
+          "title": "Google Wallet Developer Livestreams",
+          "description": "Welcome to the official Google Wallet developer livestream playlist! Join us as we dive deep into the world of Google Wallet development. In these livestreams, we'll have engaging conversations with experts, unveil the latest features of the Google Wallet API, and showcase innovative ways to integrate them into your apps. Stay ahead of the curve and gain valuable insights to enhance your app development with Google Wallet.\n\nWhat you can expect:\n\n- In-depth discussions: We'll explore the intricacies of the Google Wallet API and discuss best practices for implementation.\n\n- Exclusive interviews: Hear from special guests, including industry leaders and Googlers, who will share their insights and expertise.\n\n- New feature reveals: Be the first to know about the latest additions to the Google Wallet API and learn how to leverage them to create compelling user experiences.\n\n- Creative use cases: Discover innovative ways to use Google Wallet features to engage your users and enhance their digital interactions.\n\nSave this playlist to stay up-to-date on the latest Google Wallet developments and unlock the full potential of your apps. Don't miss out on these valuable resources and the opportunity to connect with the Google Wallet developer community! Join us on this exciting journey and be a part of the future of digital payments with Google Wallet!\n\n#GoogleWallet #Developers #GoogleforDevelopers"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 14
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "M5qBnmFylcNIPAtom0iEPGb80cQ",
+      "id": "PLOU2XLYxmsIKJ2FyosbjOW1vdoB2YEV6m",
+      "snippet": {
+        "publishedAt": "2024-12-06T17:52:19.660806Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Google Pay DevBytes",
+        "description": "If you're looking to integrate Google Pay into your application, we've created a series of informative videos to guide you through the process. These videos will provide you with step-by-step instructions on how to implement exciting Google Pay features, such as the dynamic button API and Autofill, which can greatly enhance the user experience within your app.\n\nAdditionally, the videos will delve into best practices for testing your Google Pay integration, ensuring that it functions seamlessly for all users. We'll also cover troubleshooting techniques, equipping you with the knowledge to quickly identify and resolve any issues that may arise during the integration process. By the end of these videos, you'll have the expertise to confidently add Google Pay to your app and provide your users with a secure and convenient payment option.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Gs112JPIsgM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Gs112JPIsgM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Gs112JPIsgM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Gs112JPIsgM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Gs112JPIsgM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "localized": {
+          "title": "Google Pay DevBytes",
+          "description": "If you're looking to integrate Google Pay into your application, we've created a series of informative videos to guide you through the process. These videos will provide you with step-by-step instructions on how to implement exciting Google Pay features, such as the dynamic button API and Autofill, which can greatly enhance the user experience within your app.\n\nAdditionally, the videos will delve into best practices for testing your Google Pay integration, ensuring that it functions seamlessly for all users. We'll also cover troubleshooting techniques, equipping you with the knowledge to quickly identify and resolve any issues that may arise during the integration process. By the end of these videos, you'll have the expertise to confidently add Google Pay to your app and provide your users with a secure and convenient payment option."
+        }
+      },
+      "contentDetails": {
+        "itemCount": 9
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "A90sn6SLaJiSAfHL8Gukk1s4ubQ",
+      "id": "PLOU2XLYxmsIK24PbXXVKhEui2wlnHzOFf",
+      "snippet": {
+        "publishedAt": "2024-11-11T19:54:47.867525Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Open Health Stack Series",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aPRvy7-hlgU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aPRvy7-hlgU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aPRvy7-hlgU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aPRvy7-hlgU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aPRvy7-hlgU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "localized": {
+          "title": "Open Health Stack Series",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 8
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "ZM7BbPjBDBAFL3mQJ7ZHQYaaOzg",
+      "id": "PLOU2XLYxmsIJaBN7PO0i18eNyGCtB8XQp",
+      "snippet": {
+        "publishedAt": "2024-11-04T20:44:48.778856Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Women in AI Summit 2024",
+        "description": "Discover what the Women in AI Summit 2024 has to offer from various sessions and workshops to choose from to expand your skills. Find videos on the latest AI technology, news, industry insights, and more!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P2TA9ebeIXY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P2TA9ebeIXY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P2TA9ebeIXY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/P2TA9ebeIXY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/P2TA9ebeIXY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "localized": {
+          "title": "Women in AI Summit 2024",
+          "description": "Discover what the Women in AI Summit 2024 has to offer from various sessions and workshops to choose from to expand your skills. Find videos on the latest AI technology, news, industry insights, and more!"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 10
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "IKUS1L4S08qGsBHSkWM6eOOOZKI",
+      "id": "PLOU2XLYxmsIKOyXflnuPK-qe32hZLc2HB",
+      "snippet": {
+        "publishedAt": "2024-10-16T00:19:19.186098Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Gemma Developer Day Tokyo",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ueACBZDrbTY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ueACBZDrbTY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ueACBZDrbTY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ueACBZDrbTY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ueACBZDrbTY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "localized": {
+          "title": "Gemma Developer Day Tokyo",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 14
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "vZsaB2O0yphOHomQ6GIf_z8aopM",
+      "id": "PLOU2XLYxmsII6-a8L0Wtw87aJjonTbr2C",
+      "snippet": {
+        "publishedAt": "2024-09-23T16:59:13.588786Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Project Gameface",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WKr8qOJvNas/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WKr8qOJvNas/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WKr8qOJvNas/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WKr8qOJvNas/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WKr8qOJvNas/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "localized": {
+          "title": "Project Gameface",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 5
+      }
+    }
+  ]
+}

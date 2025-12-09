@@ -1,0 +1,856 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "m4TUIJnQ7ucS16V-Y4cSX4WpXqQ",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "GB",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oJuDbfwVDkLZMn0LXr5BiKZ6PPo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fdLa2AvRIdA"
+      },
+      "snippet": {
+        "publishedAt": "2021-12-16T04:22:52Z",
+        "channelId": "UCvotrIocqw4vDmVemWf8qBg",
+        "title": "Dog Owner ABUSES his Shiba Inu",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fdLa2AvRIdA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fdLa2AvRIdA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fdLa2AvRIdA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KyloTheDoge",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-12-16T04:22:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eP4yY6TX0eakey6JgBZXqoOVIw8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nTh6H-mK16M"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-08T03:49:49Z",
+        "channelId": "UCvotrIocqw4vDmVemWf8qBg",
+        "title": "Shiba Has Low Patience for Imbecile Owner",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nTh6H-mK16M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nTh6H-mK16M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nTh6H-mK16M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KyloTheDoge",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-08T03:49:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uRvIlinpMacUnMorUx5dh1eWIKg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JXk7lwBCAnU"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-02T20:02:37Z",
+        "channelId": "UCMAAOw1cq5z2xX5QZaIPQaw",
+        "title": "Finding out how SQUISHY this Shiba Inu is 😍",
+        "description": "You will be popular! You're gonna be popular! My Shiba Inu is a big squishy ball of mochi cheeked floof #dog #shibainus ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JXk7lwBCAnU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JXk7lwBCAnU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JXk7lwBCAnU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Eevee Bork the Shiba",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-02T20:02:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mKkR4XlEZJpElQ5_M6kV6bLMylw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KIVnshhhRwA"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-26T01:29:06Z",
+        "channelId": "UCvotrIocqw4vDmVemWf8qBg",
+        "title": "Shiba Gets Tased By Owner",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KIVnshhhRwA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KIVnshhhRwA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KIVnshhhRwA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KyloTheDoge",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-26T01:29:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EbIl1TdinugaTtPk8DklXlDMS2g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mobMcjuKdEk"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-16T18:28:16Z",
+        "channelId": "UCvotrIocqw4vDmVemWf8qBg",
+        "title": "Shiba Tries Going on Morning News To Spread Awareness of Bad Owner",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mobMcjuKdEk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mobMcjuKdEk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mobMcjuKdEk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KyloTheDoge",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-16T18:28:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UYxfQ0NL4DPD-V_IniN_Rmg6Y2M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "c8hdrz0mvSM"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-26T16:00:30Z",
+        "channelId": "UCMuoDQN_LYvj8YH2Mp43V3A",
+        "title": "What it’s REALLY like owning a Shiba Inu",
+        "description": "Ah, the Shiba Inu—the internet's beloved meme star and all-around scene stealer. But behind their adorable, fox-like appearance ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/c8hdrz0mvSM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/c8hdrz0mvSM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/c8hdrz0mvSM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Smart Canine",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-26T16:00:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iCRdiejLJ4TZSomCT4P3ZEIIbPQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4Fec7EnTEHs"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-09T06:05:57Z",
+        "channelId": "UCvotrIocqw4vDmVemWf8qBg",
+        "title": "History of Kylo the Shiba",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4Fec7EnTEHs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4Fec7EnTEHs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4Fec7EnTEHs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KyloTheDoge",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-09T06:05:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nakVaayybzKBFeEb8ZC815gs0CA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XGMiX0iHmrU"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-26T17:19:02Z",
+        "channelId": "UCvotrIocqw4vDmVemWf8qBg",
+        "title": "I Left My Shiba for 5 Days",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XGMiX0iHmrU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XGMiX0iHmrU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XGMiX0iHmrU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KyloTheDoge",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-26T17:19:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6klSxmV7CuI6DnJwSZ1VplgUDQ0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kO9B2qMlDk0"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-05T20:50:30Z",
+        "channelId": "UCjlcOM4JaLoUbFWQ7j0LOKA",
+        "title": "Are Shiba Inus Good Pets? 10 Pros and Cons of Owning a Shiba",
+        "description": "Are Shiba Inus Good Pets? | 10 Pros and Cons of Owning a Shiba Shiba Inus have become one of the most famous dogs on the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kO9B2qMlDk0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kO9B2qMlDk0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kO9B2qMlDk0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tadashi the Shiba",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-05T20:50:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2h_iN-xYliknJ-_lC1m5MdCAnAo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_W_wdCy42Nk"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-05T15:00:30Z",
+        "channelId": "UCN68ge5dgQw3itkyILbR05w",
+        "title": "5 Things That Make Shiba Inu the Most Special Dog",
+        "description": "5 Things That Make Shiba Inu the Most Special Dog. Chapters: Intro - 0:00 Good Looking - 1:06 Quirky - 2:20 Intelligent - 4:20 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_W_wdCy42Nk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_W_wdCy42Nk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_W_wdCy42Nk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Super Shiba",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-05T15:00:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "o0qt51Y27X9QRODInbYKsBQ459A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EACFtso90Oc"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-30T04:29:53Z",
+        "channelId": "UCOyaZE7tuYWnMC3olAI9oAw",
+        "title": "Found a Shiba Inu service dog (in training) 😮",
+        "description": "Found a Shiba Service Dog! This interaction is really sweet. ❤️ When I went to the Sakura Days Festival, I actually went there ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EACFtso90Oc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EACFtso90Oc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EACFtso90Oc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Justin Veenema",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-30T04:29:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6VmCH2ZY5bPUe1GK_XCv0gciKVA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4gvOJvOMUlg"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-03T15:00:03Z",
+        "channelId": "UCM5oQBEF59122yTblKUzCHQ",
+        "title": "3,300,000,000,000 Shiba Inu! WHAT?! #shiba #shibainu #shibacoin",
+        "description": "CHANNEL SPONSOR - TRADIX! Tradix is the first app of its kind allowing users to search, review, and set custom price alerts for ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4gvOJvOMUlg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4gvOJvOMUlg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4gvOJvOMUlg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Austin Hilton",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-03T15:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LsLwa5ev4vizSE0hl9zkPh1MWLI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OQrO5GI1ZYs"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-05T19:44:30Z",
+        "channelId": "UCtj5f3LmkxkjCDb9DzSLQ8A",
+        "title": "Shiba inu core. 🐕🐕",
+        "description": "dog #cute #adorable #shorts #animals #animalshorts #shiba.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OQrO5GI1ZYs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OQrO5GI1ZYs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OQrO5GI1ZYs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DearAnimals",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-05T19:44:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QnrE7LuGQQRhd-d9U0p7_F-DzBI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "N0tZpFoQplM"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-29T03:58:41Z",
+        "channelId": "UCvotrIocqw4vDmVemWf8qBg",
+        "title": "Shiba Inu is a cat dog",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N0tZpFoQplM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N0tZpFoQplM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N0tZpFoQplM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KyloTheDoge",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-29T03:58:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AG3Xk_LdEVXVipVp5k-IknFn7VY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "z_E56svwsNE"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-07T23:39:33Z",
+        "channelId": "UCvotrIocqw4vDmVemWf8qBg",
+        "title": "Shiba Lost His Tail",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z_E56svwsNE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z_E56svwsNE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z_E56svwsNE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KyloTheDoge",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-07T23:39:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VRujLLGycURaFH7n-se2cmfzncM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lKYQjg336yU"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-08T03:00:30Z",
+        "channelId": "UCvotrIocqw4vDmVemWf8qBg",
+        "title": "Shiba Inu Communicates With Owner In Smart Ways",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lKYQjg336yU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lKYQjg336yU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lKYQjg336yU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KyloTheDoge",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-08T03:00:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Rjf99XuCEr05JtbJeJJ53D7BlhU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KF2Sta_ihlQ"
+      },
+      "snippet": {
+        "publishedAt": "2024-04-16T22:10:13Z",
+        "channelId": "UCvotrIocqw4vDmVemWf8qBg",
+        "title": "Trying to Teach Shiba a Lesson",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KF2Sta_ihlQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KF2Sta_ihlQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KF2Sta_ihlQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KyloTheDoge",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-04-16T22:10:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "J6QCkkgHFW3Lwbftjh8zn6OY5uY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vnfW8qY6QdQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-20T14:58:11Z",
+        "channelId": "UCyp2xr8XzZMaMxSxIvNaN0w",
+        "title": "Shiba Inu dog loves high tech too! This shiny M4 toy gun is awesome! ✨ #ToyUnboxing #Cute #shorts #d",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vnfW8qY6QdQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vnfW8qY6QdQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vnfW8qY6QdQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Pouty Shiba Inu",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-20T14:58:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XLaVq5D5JGeTuUQq5PeBkRt_knY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xijRFo2Ru9E"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-20T01:49:16Z",
+        "channelId": "UC0KUwFUPKmDYOn3ARs5J7LQ",
+        "title": "🐕 5 Wild Shiba Inu Facts You Didn’t Know!",
+        "description": "Shiba Inus might look like little foxes, but these dogs are full of surprises — from ancient origins to their signature “Shiba scream”!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xijRFo2Ru9E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xijRFo2Ru9E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xijRFo2Ru9E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Critter Clips",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-20T01:49:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0mHmLNBvq-ZGqq7witSlWhpPZmw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QnzQkKd4tOg"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-08T15:15:47Z",
+        "channelId": "UCMAAOw1cq5z2xX5QZaIPQaw",
+        "title": "Ruby Chan (but it’s Shiba Inus) #cutenessoverload",
+        "description": "Ruby Chan meme but it's with dramatic screaming Shiba Inu's. Featuring @KyloTheDoge infamous scream #shiba #shibainu ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QnzQkKd4tOg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QnzQkKd4tOg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QnzQkKd4tOg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Eevee Bork the Shiba",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-08T15:15:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UWW5g27NmRWwGFqllvK7wwAWZpE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SiW4whl6egE"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-26T15:21:50Z",
+        "channelId": "UCMAAOw1cq5z2xX5QZaIPQaw",
+        "title": "so cute im angry",
+        "description": "my Shiba Inu dog is so cute that I'm angry about it! I cannot avoid the cuteness aggression for my Shiba Inu I have cuteness ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SiW4whl6egE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SiW4whl6egE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SiW4whl6egE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Eevee Bork the Shiba",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-26T15:21:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "h6NieJDvw1dJixSViNTGaxzM02w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rwZciJaG-9k"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-08T04:38:14Z",
+        "channelId": "UC9o-KkHtUgAaakX1773UVMw",
+        "title": "SHIBA INU COIN volume is concerning",
+        "description": "Get Zach's Trading Indicator (USE THIS DISCOUNT CODE X ) 30 day money back guarantee! Try it risk free today!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rwZciJaG-9k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rwZciJaG-9k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rwZciJaG-9k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Zach Humphries",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-08T04:38:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0hEWzsNhZ_8fONh2KCtbi0gCxJc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "V_4UeHzgjIs"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-18T12:22:26Z",
+        "channelId": "UCMAAOw1cq5z2xX5QZaIPQaw",
+        "title": "Japanese Shiba Inu’s for a reason 👊🏻 #cutenessoverload",
+        "description": "They are called a Japanese Shiba Inu for a reason. We're loving seeing all these Shibas whilst in Japan! #japan #shibainu #shiba ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V_4UeHzgjIs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V_4UeHzgjIs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V_4UeHzgjIs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Eevee Bork the Shiba",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-18T12:22:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wpv0vXMqZkNhi2ZRjNLFQUJXFPc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0CfWiV9lTjg"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T18:30:01Z",
+        "channelId": "UCkxRYFGjgDViG8MzNkzPM0A",
+        "title": "SHIBA INU - WE&#39;RE FINALLY GETTING THIS!!! SHIB PRICE PROJECTION!",
+        "description": "SHIBA INU - WE'RE FINALLY GETTING THIS!!! SHIB PRICE PROJECTION! TRADE WITH UP TO 500X MARGIN WITH BTCC ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0CfWiV9lTjg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0CfWiV9lTjg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0CfWiV9lTjg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LuckSide Crypto",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T18:30:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SAIEnNAJifEQs0Vzu07yT2Vb7Uo",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCB5EDc_slf3zfKfQoOeitjQ"
+      },
+      "snippet": {
+        "publishedAt": "2019-08-29T02:19:21Z",
+        "channelId": "UCB5EDc_slf3zfKfQoOeitjQ",
+        "title": "Haribo the Shiba",
+        "description": "Relaxing V-logs with Haribo the Shiba and Family Haribo is a Red Shiba Inu who lives in Canada. Please leave a comment and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_kmyjEmDWEhA2Lv660kZxVAgE7xisBkFKRHJI392M56XA=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_kmyjEmDWEhA2Lv660kZxVAgE7xisBkFKRHJI392M56XA=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_kmyjEmDWEhA2Lv660kZxVAgE7xisBkFKRHJI392M56XA=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "Haribo the Shiba",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-08-29T02:19:21Z"
+      }
+    }
+  ]
+}

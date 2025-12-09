@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "_dj2aI2uwt5lHI5b_aaSqroQgrU",
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "V3yGB_xOnYrIyrcdnNHmnKXM6lw",
+      "id": "UCKXoqeIWM23W-W1XyjWePOg",
+      "snippet": {
+        "title": "Jador The Artist",
+        "description": "Remus-Ionuț Dumitrache cunoscut sub numele de scenă JADOR, este un cântăreț de muzică de petrecere, manele, trap. Născut în județul Bacău la dată de 25 Martie 1995, are să devină o verigă cheie în muzică româneasca. După absolvirea Liceului Tehnologic G.J. Cancicov Parincea, în 2013, termină cu succes studiile superioare la Academia de Studii Economice din București.  \n\n🎤 Concerte & Management: Radu Stefan | +4 0721 773 544\n📩 Pentru solicitări business: Marius China | marius.china@musiclover.ro\n",
+        "customUrl": "@jadortheartist",
+        "publishedAt": "2020-10-11T12:02:40.304315Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/JEs3R0Lf8-2XQpMyK8GaBJcc21LNElWV-tVIcKc1ZjnDkKapH-Svu4ZDuQ1JrU_MVXcfsX9GAs4=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/JEs3R0Lf8-2XQpMyK8GaBJcc21LNElWV-tVIcKc1ZjnDkKapH-Svu4ZDuQ1JrU_MVXcfsX9GAs4=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/JEs3R0Lf8-2XQpMyK8GaBJcc21LNElWV-tVIcKc1ZjnDkKapH-Svu4ZDuQ1JrU_MVXcfsX9GAs4=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Jador The Artist",
+          "description": "Remus-Ionuț Dumitrache cunoscut sub numele de scenă JADOR, este un cântăreț de muzică de petrecere, manele, trap. Născut în județul Bacău la dată de 25 Martie 1995, are să devină o verigă cheie în muzică româneasca. După absolvirea Liceului Tehnologic G.J. Cancicov Parincea, în 2013, termină cu succes studiile superioare la Academia de Studii Economice din București.  \n\n🎤 Concerte & Management: Radu Stefan | +4 0721 773 544\n📩 Pentru solicitări business: Marius China | marius.china@musiclover.ro\n"
+        },
+        "country": "RO"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUKXoqeIWM23W-W1XyjWePOg"
+        }
+      },
+      "statistics": {
+        "viewCount": "48800961",
+        "subscriberCount": "436000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "506"
+      }
+    }
+  ]
+}
